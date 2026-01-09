@@ -219,7 +219,7 @@
         {
           "atomType": "Input",
           "x": 0.01815,
-          "y": 0.10999999999999999,
+          "y": 0.17782909930715934,
           "uniqueID": "id-840",
           "name": "Cutting_shape",
           "type": "geometry"
@@ -227,14 +227,14 @@
         {
           "atomType": "Input",
           "x": 0.01815,
-          "y": 0.176,
+          "y": 0.2586605080831409,
           "uniqueID": "id-843",
           "name": "Woodthick"
         },
         {
           "atomType": "Input",
           "x": 0.01815,
-          "y": 0.242,
+          "y": 0.3325635103926097,
           "uniqueID": "id-846",
           "name": "Layer"
         },
@@ -2063,10 +2063,10 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.4099244875943905,
-      "y": 0.6073903002309469,
+      "x": 0.41370010787486516,
+      "y": 0.7413394919168591,
       "uniqueID": "id-1521",
-      "name": "Molecule",
+      "name": "10Slicer",
       "ioValues": [
         {
           "name": "WoodThick",
@@ -3837,8 +3837,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.38942826321467094,
-          "y": 0.8429561200923789,
+          "x": 0.39805825242718446,
+          "y": 0.8452655889145496,
           "uniqueID": "id-1616",
           "name": "Slicer",
           "ioValues": [
@@ -4046,59 +4046,143 @@
         },
         {
           "atomType": "Equation",
-          "x": 0.18069039913700108,
-          "y": 0.21478060046189376,
+          "x": 0.1871628910463862,
+          "y": 0.19861431870669746,
           "uniqueID": "id-1907",
-          "name": "n+1",
+          "name": "10*n+1",
           "ioValues": [
             {
               "name": "n",
               "ioValue": 0
             }
           ],
-          "currentEquation": "n+1"
+          "currentEquation": "10*n+1"
         },
         {
           "atomType": "Equation",
-          "x": 0.18392664509169365,
-          "y": 0.30946882217090066,
+          "x": 0.18932038834951456,
+          "y": 0.3117782909930716,
           "uniqueID": "id-1912",
-          "name": "n+1",
+          "name": "10*n+2",
           "ioValues": [
             {
               "name": "n",
               "ioValue": 0
             }
           ],
-          "currentEquation": "n+1"
+          "currentEquation": "10*n+2"
         },
         {
           "atomType": "Equation",
           "x": 0.18338727076591155,
           "y": 0.4457274826789838,
           "uniqueID": "id-1915",
-          "name": "n+1",
+          "name": "10*n+3",
           "ioValues": [
             {
               "name": "n",
               "ioValue": 0
             }
           ],
-          "currentEquation": "n+1"
+          "currentEquation": "10*n+3"
         },
         {
           "atomType": "Equation",
-          "x": 0.21251348435814457,
-          "y": 0.47344110854503463,
+          "x": 0.18985976267529667,
+          "y": 0.5912240184757506,
           "uniqueID": "id-1918",
-          "name": "n+1",
+          "name": "10*n+4",
           "ioValues": [
             {
               "name": "n",
               "ioValue": 0
             }
           ],
-          "currentEquation": "n+1"
+          "currentEquation": "10*n+4"
+        },
+        {
+          "atomType": "Equation",
+          "x": 0.19579288025889965,
+          "y": 0.7251732101616628,
+          "uniqueID": "id-1921",
+          "name": "10*n+5",
+          "ioValues": [
+            {
+              "name": "n",
+              "ioValue": 0
+            }
+          ],
+          "currentEquation": "10*n+5"
+        },
+        {
+          "atomType": "Equation",
+          "x": 0.33603020496224384,
+          "y": 0.3325635103926097,
+          "uniqueID": "id-1924",
+          "name": "10*n+6",
+          "ioValues": [
+            {
+              "name": "n",
+              "ioValue": 0
+            }
+          ],
+          "currentEquation": "10*n+6"
+        },
+        {
+          "atomType": "Equation",
+          "x": 0.3344120819848975,
+          "y": 0.4503464203233256,
+          "uniqueID": "id-1927",
+          "name": "10*n+7",
+          "ioValues": [
+            {
+              "name": "n",
+              "ioValue": 0
+            }
+          ],
+          "currentEquation": "10*n+7"
+        },
+        {
+          "atomType": "Equation",
+          "x": 0.3333333333333333,
+          "y": 0.584295612009238,
+          "uniqueID": "id-1930",
+          "name": "10*n+8",
+          "ioValues": [
+            {
+              "name": "n",
+              "ioValue": 0
+            }
+          ],
+          "currentEquation": "10*n+8"
+        },
+        {
+          "atomType": "Equation",
+          "x": 0.3354908306364617,
+          "y": 0.6997690531177828,
+          "uniqueID": "id-1933",
+          "name": "10*n+9",
+          "ioValues": [
+            {
+              "name": "n",
+              "ioValue": 0
+            }
+          ],
+          "currentEquation": "10*n+9"
+        },
+        {
+          "atomType": "Equation",
+          "x": 0.3365695792880259,
+          "y": 0.8452655889145496,
+          "uniqueID": "id-1936",
+          "name": "10*n+10",
+          "ioValues": [
+            {
+              "name": "n",
+              "ioValue": 0
+            }
+          ],
+          "currentEquation": "10*n+10"
         }
       ],
       "allConnectors": [
@@ -4276,6 +4360,86 @@
           "ap2Name": "n",
           "ap1ID": "id-1904",
           "ap2ID": "id-1918"
+        },
+        {
+          "ap2Name": "n",
+          "ap1ID": "id-1904",
+          "ap2ID": "id-1921"
+        },
+        {
+          "ap2Name": "n",
+          "ap1ID": "id-1904",
+          "ap2ID": "id-1924"
+        },
+        {
+          "ap2Name": "n",
+          "ap1ID": "id-1904",
+          "ap2ID": "id-1927"
+        },
+        {
+          "ap2Name": "n",
+          "ap1ID": "id-1904",
+          "ap2ID": "id-1930"
+        },
+        {
+          "ap2Name": "n",
+          "ap1ID": "id-1904",
+          "ap2ID": "id-1933"
+        },
+        {
+          "ap2Name": "n",
+          "ap1ID": "id-1904",
+          "ap2ID": "id-1936"
+        },
+        {
+          "ap2Name": "Layer",
+          "ap1ID": "id-1907",
+          "ap2ID": "id-1526"
+        },
+        {
+          "ap2Name": "Layer",
+          "ap1ID": "id-1912",
+          "ap2ID": "id-1536"
+        },
+        {
+          "ap2Name": "Layer",
+          "ap1ID": "id-1915",
+          "ap2ID": "id-1546"
+        },
+        {
+          "ap2Name": "Layer",
+          "ap1ID": "id-1918",
+          "ap2ID": "id-1556"
+        },
+        {
+          "ap2Name": "Layer",
+          "ap1ID": "id-1921",
+          "ap2ID": "id-1566"
+        },
+        {
+          "ap2Name": "Layer",
+          "ap1ID": "id-1924",
+          "ap2ID": "id-1576"
+        },
+        {
+          "ap2Name": "Layer",
+          "ap1ID": "id-1927",
+          "ap2ID": "id-1586"
+        },
+        {
+          "ap2Name": "Layer",
+          "ap1ID": "id-1930",
+          "ap2ID": "id-1596"
+        },
+        {
+          "ap2Name": "Layer",
+          "ap1ID": "id-1933",
+          "ap2ID": "id-1606"
+        },
+        {
+          "ap2Name": "Layer",
+          "ap1ID": "id-1936",
+          "ap2ID": "id-1616"
         }
       ],
       "fileTypeVersion": 1
