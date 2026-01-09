@@ -7,7 +7,7 @@
   "ioValues": [
     {
       "name": "WoodThick",
-      "ioValue": 2.175
+      "ioValue": 4.175
     }
   ],
   "topLevel": true,
@@ -179,7 +179,7 @@
         },
         {
           "name": "Woodthick",
-          "ioValue": 2.175
+          "ioValue": 4.175
         },
         {
           "name": "Layer",
@@ -250,7 +250,7 @@
             },
             {
               "name": "height",
-              "ioValue": 2.175
+              "ioValue": 4.175
             }
           ]
         },
@@ -267,7 +267,7 @@
             },
             {
               "name": "w",
-              "ioValue": 2.175
+              "ioValue": 4.175
             }
           ],
           "currentEquation": "(z-1)*w"
@@ -371,7 +371,7 @@
       "ioValues": [
         {
           "name": "WoodThick",
-          "ioValue": 2.175
+          "ioValue": 4.175
         },
         {
           "name": "ObjectToCut",
@@ -619,7 +619,7 @@
             },
             {
               "name": "Woodthick",
-              "ioValue": 2.175
+              "ioValue": 4.175
             },
             {
               "name": "Layer",
@@ -690,7 +690,7 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ]
             },
@@ -707,7 +707,7 @@
                 },
                 {
                   "name": "w",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ],
               "currentEquation": "(z-1)*w"
@@ -815,7 +815,7 @@
             },
             {
               "name": "Woodthick",
-              "ioValue": 2.175
+              "ioValue": 4.175
             },
             {
               "name": "Layer",
@@ -886,7 +886,7 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ]
             },
@@ -903,7 +903,7 @@
                 },
                 {
                   "name": "w",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ],
               "currentEquation": "(z-1)*w"
@@ -928,7 +928,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ]
             },
@@ -1011,7 +1011,7 @@
             },
             {
               "name": "Woodthick",
-              "ioValue": 2.175
+              "ioValue": 4.175
             },
             {
               "name": "Layer",
@@ -1082,7 +1082,7 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ]
             },
@@ -1099,7 +1099,7 @@
                 },
                 {
                   "name": "w",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ],
               "currentEquation": "(z-1)*w"
@@ -1124,7 +1124,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 4.35
+                  "ioValue": 8.35
                 }
               ]
             },
@@ -1207,7 +1207,7 @@
             },
             {
               "name": "Woodthick",
-              "ioValue": 2.175
+              "ioValue": 4.175
             },
             {
               "name": "Layer",
@@ -1278,7 +1278,7 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ]
             },
@@ -1295,7 +1295,7 @@
                 },
                 {
                   "name": "w",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ],
               "currentEquation": "(z-1)*w"
@@ -1320,7 +1320,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 6.5249999999999995
+                  "ioValue": 12.524999999999999
                 }
               ]
             },
@@ -1403,7 +1403,7 @@
             },
             {
               "name": "Woodthick",
-              "ioValue": 2.175
+              "ioValue": 4.175
             },
             {
               "name": "Layer",
@@ -1474,7 +1474,7 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ]
             },
@@ -1491,7 +1491,7 @@
                 },
                 {
                   "name": "w",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ],
               "currentEquation": "(z-1)*w"
@@ -1516,7 +1516,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 8.7
+                  "ioValue": 16.7
                 }
               ]
             },
@@ -1599,7 +1599,7 @@
             },
             {
               "name": "Woodthick",
-              "ioValue": 2.175
+              "ioValue": 4.175
             },
             {
               "name": "Layer",
@@ -1670,7 +1670,7 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ]
             },
@@ -1687,7 +1687,7 @@
                 },
                 {
                   "name": "w",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ],
               "currentEquation": "(z-1)*w"
@@ -1712,7 +1712,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 10.875
+                  "ioValue": 20.875
                 }
               ]
             },
@@ -1795,7 +1795,7 @@
             },
             {
               "name": "Woodthick",
-              "ioValue": 2.175
+              "ioValue": 4.175
             },
             {
               "name": "Layer",
@@ -1866,7 +1866,7 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ]
             },
@@ -1883,7 +1883,7 @@
                 },
                 {
                   "name": "w",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ],
               "currentEquation": "(z-1)*w"
@@ -1908,7 +1908,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 13.049999999999999
+                  "ioValue": 25.049999999999997
                 }
               ]
             },
@@ -1991,7 +1991,7 @@
             },
             {
               "name": "Woodthick",
-              "ioValue": 2.175
+              "ioValue": 4.175
             },
             {
               "name": "Layer",
@@ -2062,7 +2062,7 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ]
             },
@@ -2079,7 +2079,7 @@
                 },
                 {
                   "name": "w",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ],
               "currentEquation": "(z-1)*w"
@@ -2104,7 +2104,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 15.224999999999998
+                  "ioValue": 29.224999999999998
                 }
               ]
             },
@@ -2187,7 +2187,7 @@
             },
             {
               "name": "Woodthick",
-              "ioValue": 2.175
+              "ioValue": 4.175
             },
             {
               "name": "Layer",
@@ -2258,7 +2258,7 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ]
             },
@@ -2275,7 +2275,7 @@
                 },
                 {
                   "name": "w",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ],
               "currentEquation": "(z-1)*w"
@@ -2300,7 +2300,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 17.4
+                  "ioValue": 33.4
                 }
               ]
             },
@@ -2383,7 +2383,7 @@
             },
             {
               "name": "Woodthick",
-              "ioValue": 2.175
+              "ioValue": 4.175
             },
             {
               "name": "Layer",
@@ -2454,7 +2454,7 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ]
             },
@@ -2471,7 +2471,7 @@
                 },
                 {
                   "name": "w",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ],
               "currentEquation": "(z-1)*w"
@@ -2496,7 +2496,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 19.575
+                  "ioValue": 37.574999999999996
                 }
               ]
             },
@@ -2835,7 +2835,7 @@
       "ioValues": [
         {
           "name": "WoodThick",
-          "ioValue": 2.175
+          "ioValue": 4.175
         },
         {
           "name": "ObjectToCut",
@@ -3083,7 +3083,7 @@
             },
             {
               "name": "Woodthick",
-              "ioValue": 2.175
+              "ioValue": 4.175
             },
             {
               "name": "Layer",
@@ -3154,7 +3154,7 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ]
             },
@@ -3171,7 +3171,7 @@
                 },
                 {
                   "name": "w",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ],
               "currentEquation": "(z-1)*w"
@@ -3196,7 +3196,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 21.75
+                  "ioValue": 41.75
                 }
               ]
             },
@@ -3279,7 +3279,7 @@
             },
             {
               "name": "Woodthick",
-              "ioValue": 2.175
+              "ioValue": 4.175
             },
             {
               "name": "Layer",
@@ -3350,7 +3350,7 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ]
             },
@@ -3367,7 +3367,7 @@
                 },
                 {
                   "name": "w",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ],
               "currentEquation": "(z-1)*w"
@@ -3392,7 +3392,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 23.924999999999997
+                  "ioValue": 45.925
                 }
               ]
             },
@@ -3475,7 +3475,7 @@
             },
             {
               "name": "Woodthick",
-              "ioValue": 2.175
+              "ioValue": 4.175
             },
             {
               "name": "Layer",
@@ -3546,7 +3546,7 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ]
             },
@@ -3563,7 +3563,7 @@
                 },
                 {
                   "name": "w",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ],
               "currentEquation": "(z-1)*w"
@@ -3588,7 +3588,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 26.099999999999998
+                  "ioValue": 50.099999999999994
                 }
               ]
             },
@@ -3671,7 +3671,7 @@
             },
             {
               "name": "Woodthick",
-              "ioValue": 2.175
+              "ioValue": 4.175
             },
             {
               "name": "Layer",
@@ -3742,7 +3742,7 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ]
             },
@@ -3759,7 +3759,7 @@
                 },
                 {
                   "name": "w",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ],
               "currentEquation": "(z-1)*w"
@@ -3784,7 +3784,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 28.275
+                  "ioValue": 54.275
                 }
               ]
             },
@@ -3867,7 +3867,7 @@
             },
             {
               "name": "Woodthick",
-              "ioValue": 2.175
+              "ioValue": 4.175
             },
             {
               "name": "Layer",
@@ -3938,7 +3938,7 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ]
             },
@@ -3955,7 +3955,7 @@
                 },
                 {
                   "name": "w",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ],
               "currentEquation": "(z-1)*w"
@@ -3980,7 +3980,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 30.449999999999996
+                  "ioValue": 58.449999999999996
                 }
               ]
             },
@@ -4063,7 +4063,7 @@
             },
             {
               "name": "Woodthick",
-              "ioValue": 2.175
+              "ioValue": 4.175
             },
             {
               "name": "Layer",
@@ -4134,7 +4134,7 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ]
             },
@@ -4151,7 +4151,7 @@
                 },
                 {
                   "name": "w",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ],
               "currentEquation": "(z-1)*w"
@@ -4176,7 +4176,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 32.625
+                  "ioValue": 62.625
                 }
               ]
             },
@@ -4259,7 +4259,7 @@
             },
             {
               "name": "Woodthick",
-              "ioValue": 2.175
+              "ioValue": 4.175
             },
             {
               "name": "Layer",
@@ -4330,7 +4330,7 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ]
             },
@@ -4347,7 +4347,7 @@
                 },
                 {
                   "name": "w",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ],
               "currentEquation": "(z-1)*w"
@@ -4372,7 +4372,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 34.8
+                  "ioValue": 66.8
                 }
               ]
             },
@@ -4455,7 +4455,7 @@
             },
             {
               "name": "Woodthick",
-              "ioValue": 2.175
+              "ioValue": 4.175
             },
             {
               "name": "Layer",
@@ -4526,7 +4526,7 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ]
             },
@@ -4543,7 +4543,7 @@
                 },
                 {
                   "name": "w",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ],
               "currentEquation": "(z-1)*w"
@@ -4568,7 +4568,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 36.974999999999994
+                  "ioValue": 70.975
                 }
               ]
             },
@@ -4651,7 +4651,7 @@
             },
             {
               "name": "Woodthick",
-              "ioValue": 2.175
+              "ioValue": 4.175
             },
             {
               "name": "Layer",
@@ -4722,7 +4722,7 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ]
             },
@@ -4739,7 +4739,7 @@
                 },
                 {
                   "name": "w",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ],
               "currentEquation": "(z-1)*w"
@@ -4764,7 +4764,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 39.15
+                  "ioValue": 75.14999999999999
                 }
               ]
             },
@@ -4847,7 +4847,7 @@
             },
             {
               "name": "Woodthick",
-              "ioValue": 2.175
+              "ioValue": 4.175
             },
             {
               "name": "Layer",
@@ -4918,7 +4918,7 @@
                 },
                 {
                   "name": "height",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ]
             },
@@ -4935,7 +4935,7 @@
                 },
                 {
                   "name": "w",
-                  "ioValue": 2.175
+                  "ioValue": 4.175
                 }
               ],
               "currentEquation": "(z-1)*w"
@@ -4960,7 +4960,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 41.324999999999996
+                  "ioValue": 79.325
                 }
               ]
             },
