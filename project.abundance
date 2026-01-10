@@ -5304,8 +5304,8 @@
     },
     {
       "atomType": "Fusion",
-      "x": 0.21467098166127294,
-      "y": 0.5057736720554272,
+      "x": 0.21790722761596548,
+      "y": 0.5127020785219399,
       "uniqueID": "id-4207",
       "ioValues": [
         {
@@ -5334,9 +5334,94 @@
               ]
             }
           }
+        },
+        {
+          "name": "Shape 2",
+          "ioValue": {
+            "geometry": "move-extrude-rectangle-100-10-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-10-0--40-20",
+            "dimension": "3D",
+            "plane": {
+              "origin": [
+                0,
+                0,
+                0
+              ],
+              "xDir": [
+                1,
+                0,
+                0
+              ],
+              "normal": [
+                0,
+                0,
+                1
+              ]
+            },
+            "color": "#aad7f2",
+            "tags": [],
+            "bom": []
+          }
         }
       ],
       "unionType": "Fusion"
+    },
+    {
+      "atomType": "Rectangle",
+      "x": 0.050161812297734636,
+      "y": 0.7759815242494226,
+      "uniqueID": "id-4212",
+      "ioValues": [
+        {
+          "name": "x length",
+          "ioValue": 100
+        },
+        {
+          "name": "y length",
+          "ioValue": 10,
+          "currentEquation": "10"
+        }
+      ]
+    },
+    {
+      "atomType": "Extrude",
+      "x": 0.12028047464940668,
+      "y": 0.8175519630484989,
+      "uniqueID": "id-4216",
+      "ioValues": [
+        {
+          "name": "geometry",
+          "ioValue": "__GEOMETRY_INPUT__"
+        },
+        {
+          "name": "height",
+          "ioValue": 10
+        }
+      ]
+    },
+    {
+      "atomType": "Move",
+      "x": 0.18284789644012944,
+      "y": 0.8198614318706698,
+      "uniqueID": "id-4220",
+      "ioValues": [
+        {
+          "name": "geometry",
+          "ioValue": "__GEOMETRY_INPUT__"
+        },
+        {
+          "name": "xDist",
+          "ioValue": 0
+        },
+        {
+          "name": "yDist",
+          "ioValue": -40
+        },
+        {
+          "name": "zDist",
+          "ioValue": 20,
+          "currentEquation": "20"
+        }
+      ]
     }
   ],
   "allConnectors": [
@@ -5419,6 +5504,21 @@
       "ap2Name": "Shape 1",
       "ap1ID": "id-4207",
       "ap2ID": "id-4200"
+    },
+    {
+      "ap2Name": "geometry",
+      "ap1ID": "id-4212",
+      "ap2ID": "id-4216"
+    },
+    {
+      "ap2Name": "geometry",
+      "ap1ID": "id-4216",
+      "ap2ID": "id-4220"
+    },
+    {
+      "ap2Name": "Shape 2",
+      "ap1ID": "id-4220",
+      "ap2ID": "id-4207"
     }
   ],
   "unitsKey": "MM",
