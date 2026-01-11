@@ -369,7 +369,7 @@
         {
           "name": "Shape 2",
           "ioValue": {
-            "geometry": "move-extrude-rectangle-100-10-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-10-0--40-20",
+            "geometry": "move-extrude-rectangle-80-10-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-10-0--40-20",
             "dimension": "3D",
             "plane": {
               "origin": [
@@ -404,7 +404,7 @@
       "ioValues": [
         {
           "name": "x length",
-          "ioValue": 100
+          "ioValue": 80
         },
         {
           "name": "y length",
