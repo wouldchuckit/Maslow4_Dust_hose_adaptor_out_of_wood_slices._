@@ -7,7 +7,8 @@
   "ioValues": [
     {
       "name": "WoodThick",
-      "ioValue": 8
+      "ioValue": 8,
+      "currentEquation": "8"
     }
   ],
   "topLevel": true,
@@ -51,10 +52,6 @@
       "ioValues": [
         {
           "name": "Shape 1",
-          "ioValue": null
-        },
-        {
-          "name": "Shape 2",
           "ioValue": null
         }
       ]
@@ -751,18 +748,6 @@
             },
             {
               "name": "Shape 7",
-              "ioValue": null
-            },
-            {
-              "name": "Shape 8",
-              "ioValue": null
-            },
-            {
-              "name": "Shape 9",
-              "ioValue": null
-            },
-            {
-              "name": "Shape 10",
               "ioValue": null
             }
           ]
@@ -2141,8 +2126,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.4622437971952535,
-          "y": 0.5011547344110855,
+          "x": 0.4649406688241639,
+          "y": 0.5450346420323325,
           "uniqueID": "id-2986",
           "name": "Slicer",
           "ioValues": [
@@ -2967,21 +2952,6 @@
         {
           "ap2Name": "Shape 7",
           "ap1ID": "id-2949",
-          "ap2ID": "id-3520"
-        },
-        {
-          "ap2Name": "Shape 8",
-          "ap1ID": "id-2986",
-          "ap2ID": "id-3520"
-        },
-        {
-          "ap2Name": "Shape 9",
-          "ap1ID": "id-3023",
-          "ap2ID": "id-3520"
-        },
-        {
-          "ap2Name": "Shape 10",
-          "ap1ID": "id-3060",
           "ap2ID": "id-3520"
         }
       ],
@@ -5546,11 +5516,6 @@
     {
       "ap2Name": "Shape 1",
       "ap1ID": "id-1521",
-      "ap2ID": "id-1208"
-    },
-    {
-      "ap2Name": "Shape 2",
-      "ap1ID": "id-3101",
       "ap2ID": "id-1208"
     }
   ],
