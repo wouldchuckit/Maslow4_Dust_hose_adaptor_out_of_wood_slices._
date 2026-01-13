@@ -79,7 +79,66 @@
           "ioValue": 10
         }
       ],
-      "placements": []
+      "placements": [
+        [
+          {
+            "id": 1,
+            "rotate": 300,
+            "translate": {
+              "x": 15.771732454413643,
+              "y": -4.824001212145335
+            }
+          },
+          {
+            "id": 0,
+            "rotate": 120,
+            "translate": {
+              "x": 17.55768036259254,
+              "y": 36.756819628578995
+            }
+          },
+          {
+            "id": 6,
+            "rotate": 270,
+            "translate": {
+              "x": 23.10526607694867,
+              "y": 51.121953472342575
+            }
+          },
+          {
+            "id": 5,
+            "rotate": 120,
+            "translate": {
+              "x": -1.6445860149845242,
+              "y": 82.99418637360789
+            }
+          },
+          {
+            "id": 3,
+            "rotate": 210,
+            "translate": {
+              "x": -14.824882455010352,
+              "y": 59.76407948926922
+            }
+          },
+          {
+            "id": 2,
+            "rotate": 330,
+            "translate": {
+              "x": 29.49036938486622,
+              "y": 87.17375015835982
+            }
+          },
+          {
+            "id": 4,
+            "rotate": 60,
+            "translate": {
+              "x": 9.03631115117783,
+              "y": 102.02401158874008
+            }
+          }
+        ]
+      ]
     },
     {
       "atomType": "Gcode",
@@ -521,8 +580,8 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.42125134843581447,
-      "y": 0.3810623556581986,
+      "x": 0.4228694714131607,
+      "y": 0.3464203233256351,
       "uniqueID": "id-1521",
       "name": "10Slicer",
       "ioValues": [
@@ -880,9 +939,30 @@
                   "ioValue": 0
                 }
               ]
+            },
+            {
+              "atomType": "Intersection",
+              "x": 0.5,
+              "y": 0.33718244803695147,
+              "uniqueID": "id-5609",
+              "ioValues": [
+                {
+                  "name": "geometry1",
+                  "ioValue": "__GEOMETRY_INPUT__"
+                },
+                {
+                  "name": "geometry2",
+                  "ioValue": "__GEOMETRY_INPUT__"
+                }
+              ]
             }
           ],
           "allConnectors": [
+            {
+              "ap2Name": "geometry1",
+              "ap1ID": "id-1528",
+              "ap2ID": "id-5609"
+            },
             {
               "ap2Name": "height",
               "ap1ID": "id-1529",
@@ -912,6 +992,16 @@
               "ap2Name": "zDist",
               "ap1ID": "id-1533",
               "ap2ID": "id-1534"
+            },
+            {
+              "ap2Name": "geometry2",
+              "ap1ID": "id-1534",
+              "ap2ID": "id-5609"
+            },
+            {
+              "ap2Name": "number or geometry",
+              "ap1ID": "id-5609",
+              "ap2ID": "id-1527"
             }
           ],
           "fileTypeVersion": 1
@@ -2094,8 +2184,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.46332254584681765,
-          "y": 0.535796766743649,
+          "x": 0.4649406688241639,
+          "y": 0.5196304849884527,
           "uniqueID": "id-2986",
           "name": "Slicer",
           "ioValues": [
