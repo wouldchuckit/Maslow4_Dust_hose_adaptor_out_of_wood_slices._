@@ -7,8 +7,7 @@
   "ioValues": [
     {
       "name": "WoodThick",
-      "ioValue": 3,
-      "currentEquation": "3"
+      "ioValue": 3
     }
   ],
   "topLevel": true,
@@ -81,8 +80,7 @@
         },
         {
           "name": "Part Padding",
-          "ioValue": 10,
-          "currentEquation": "10"
+          "ioValue": 10
         }
       ],
       "placements": []
