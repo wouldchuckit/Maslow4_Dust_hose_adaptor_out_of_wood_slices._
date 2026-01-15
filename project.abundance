@@ -3535,8 +3535,8 @@
             },
             {
               "atomType": "Move",
-              "x": 0.40614886731391586,
-              "y": 0.6120092378752886,
+              "x": 0.4120819848975189,
+              "y": 0.584295612009238,
               "uniqueID": "id-3134",
               "ioValues": [
                 {
@@ -3559,9 +3559,9 @@
             },
             {
               "atomType": "Intersection",
-              "x": 0.5080906148867314,
-              "y": 0.3510392609699769,
-              "uniqueID": "id-3135",
+              "x": 0.49784250269687164,
+              "y": 0.3302540415704388,
+              "uniqueID": "id-6311",
               "ioValues": [
                 {
                   "name": "geometry1",
@@ -3572,13 +3572,31 @@
                   "ioValue": "__GEOMETRY_INPUT__"
                 }
               ]
+            },
+            {
+              "atomType": "Equation",
+              "x": 0.3705501618122978,
+              "y": 0.4018475750577367,
+              "uniqueID": "id-6315",
+              "name": "x + y",
+              "ioValues": [
+                {
+                  "name": "x",
+                  "ioValue": 33
+                },
+                {
+                  "name": "y",
+                  "ioValue": 0
+                }
+              ],
+              "currentEquation": "x + y"
             }
           ],
           "allConnectors": [
             {
-              "ap2Name": "geometry2",
+              "ap2Name": "geometry1",
               "ap1ID": "id-3128",
-              "ap2ID": "id-3135"
+              "ap2ID": "id-6311"
             },
             {
               "ap2Name": "height",
@@ -3606,19 +3624,24 @@
               "ap2ID": "id-3134"
             },
             {
-              "ap2Name": "zDist",
+              "ap2Name": "x",
               "ap1ID": "id-3133",
-              "ap2ID": "id-3134"
+              "ap2ID": "id-6315"
             },
             {
-              "ap2Name": "geometry1",
+              "ap2Name": "geometry2",
               "ap1ID": "id-3134",
-              "ap2ID": "id-3135"
+              "ap2ID": "id-6311"
             },
             {
               "ap2Name": "number or geometry",
-              "ap1ID": "id-3135",
+              "ap1ID": "id-6311",
               "ap2ID": "id-3127"
+            },
+            {
+              "ap2Name": "zDist",
+              "ap1ID": "id-6315",
+              "ap2ID": "id-3134"
             }
           ],
           "fileTypeVersion": 1
