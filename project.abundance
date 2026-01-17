@@ -5493,7 +5493,7 @@
           "ioValue": "__GEOMETRY_INPUT__"
         }
       ],
-      "readMeText": "Readme text here",
+      "readMeText": "Copy 10 slicers as needed.  Each one needs to be lifted up  by adding a group of 10 indicator ",
       "global": true
     }
   ],
@@ -5617,6 +5617,11 @@
       "ap2Name": "Shape 1",
       "ap1ID": "id-1521",
       "ap2ID": "id-1208"
+    },
+    {
+      "ap2Name": "value",
+      "ap1ID": "id-1521",
+      "ap2ID": "id-7034"
     },
     {
       "ap2Name": "Shape 2",

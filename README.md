@@ -24,7 +24,11 @@ This section is to correct for geometry that doesn't read right in abundance fro
 
 
 
-Readme text here
+Copy 10 slicers as needed.  Each one needs to be lifted up  by adding a group of 10 indicator  
+
+![readme](/readmeid-7034.svg?v=nwhx0ea)
+
+
 
 
 
