@@ -5453,9 +5453,39 @@
     },
     {
       "atomType": "Readme",
-      "x": 0.26776960784313725,
-      "y": 0.8176638176638177,
+      "x": 0.2512254901960784,
+      "y": 0.9002849002849004,
       "uniqueID": "id-7029",
+      "name": "README",
+      "ioValues": [
+        {
+          "name": "value",
+          "ioValue": "__GEOMETRY_INPUT__"
+        }
+      ],
+      "readMeText": "This section is to correct for geometry that doesn't read right in abundance from your model.  In this case there were parts with lots of faces intersecting at one point so the block just covers over and replaces that. ",
+      "global": true
+    },
+    {
+      "atomType": "Readme",
+      "x": 0.5428921568627452,
+      "y": 0.09686609686609686,
+      "uniqueID": "id-7031",
+      "name": "README",
+      "ioValues": [
+        {
+          "name": "value",
+          "ioValue": "__GEOMETRY_INPUT__"
+        }
+      ],
+      "readMeText": "This slicer is the basic atom that makes a large flat plane the thickness of your wood panel and then intersects it with the model to make a slice.  It is here just as a place to store it. The 10 slicers below are groups of 10 of these that are raised up in chunks. ",
+      "global": true
+    },
+    {
+      "atomType": "Readme",
+      "x": 0.47058823529411764,
+      "y": 0.8376068376068375,
+      "uniqueID": "id-7034",
       "name": "README",
       "ioValues": [
         {
@@ -5577,6 +5607,11 @@
       "ap2Name": "Shape 3",
       "ap1ID": "id-6319",
       "ap2ID": "id-4207"
+    },
+    {
+      "ap2Name": "value",
+      "ap1ID": "id-836",
+      "ap2ID": "id-7031"
     },
     {
       "ap2Name": "Shape 1",

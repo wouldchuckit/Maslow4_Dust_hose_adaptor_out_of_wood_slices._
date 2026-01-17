@@ -12,11 +12,19 @@
 
 
 
-Readme text here 
+This slicer is the basic atom that makes a large flat plane the thickness of your wood panel and then intersects it with the model to make a slice.  It is here just as a place to store it. The 10 slicers below are groups of 10 of these that are raised up in chunks.  
+
+![readme](/readmeid-7031.svg?v=n4gfgq4)
+
+
+
+This section is to correct for geometry that doesn't read right in abundance from your model.  In this case there were parts with lots of faces intersecting at one point so the block just covers over and replaces that.  
 
 ![readme](/readmeid-7029.svg?v=3qown6)
 
 
+
+Readme text here
 
 
 
