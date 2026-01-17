@@ -5493,7 +5493,7 @@
           "ioValue": "__GEOMETRY_INPUT__"
         }
       ],
-      "readMeText": "Copy 10 slicers as needed.  Each one needs to be lifted up  by adding a group of 10 indicator ",
+      "readMeText": "Copy 10 slicers as needed.  Each one needs to be lifted up  by adding a group of 10 indicator.  Currently the assembly atom doesn't like empty things being added to it so disconnect the uneeded parts of the 10 slicer.  If you are loading your own shape you may need to reconnect parts inside there. ",
       "global": true
     }
   ],

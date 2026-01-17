@@ -24,7 +24,7 @@ This section is to correct for geometry that doesn't read right in abundance fro
 
 
 
-Copy 10 slicers as needed.  Each one needs to be lifted up  by adding a group of 10 indicator  
+Copy 10 slicers as needed.  Each one needs to be lifted up  by adding a group of 10 indicator.  Currently the assembly atom doesn't like empty things being added to it so disconnect the uneeded parts of the 10 slicer.  If you are loading your own shape you may need to reconnect parts inside there.  
 
 ![readme](/readmeid-7034.svg?v=nwhx0ea)
 
